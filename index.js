@@ -4,11 +4,7 @@ const chalk = require('chalk')
 const inquirer = require('inquirer')
 
 //modulos internos
-
 const fs = require('fs')
-const { type } = require('os')
-const { get } = require('http')
-const { stringify } = require('querystring')
 
 console.clear()
 
